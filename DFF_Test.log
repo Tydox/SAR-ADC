@@ -1,0 +1,46 @@
+Circuit: * C:\Users\Daniel\Desktop\SAR_ADC_FINALE\DFF_Test.asc
+
+Instance "m:x1:x1:x1:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x1:x1:§nmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x1:x2:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x1:x2:§nmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x1:x3:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x1:x3:§nmodb": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x2:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x2:§nmodb": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x3:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x3:§nmodb": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x2:x1:x1:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x2:x1:x1:§nmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x2:x1:x2:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x2:x1:x2:§nmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x2:x1:x3:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x2:x1:x3:§nmodb": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x2:x2:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x2:x2:§nmodb": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x2:x3:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x2:x3:§nmodb": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x3:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x3:§nmodb": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x4:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x4:§nmodb": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Jun 10 09:30:48 2023
+Total elapsed time: 0.198 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 13361
+traniter = 13338
+tranpoints = 5174
+accept = 4129
+rejected = 1045
+matrix size = 28
+fillins = 0
+solver = Normal
+Avg thread counts: 1.0/1.1/1.1/1.0
+Matrix Compiler1: 1.92 KB object code size  0.6/0.4/[0.2]
+Matrix Compiler2: 2.90 KB object code size  0.4/0.5/[0.3]
+

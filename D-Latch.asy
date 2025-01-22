@@ -1,0 +1,18 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 48 -32 32 -32
+LINE Normal -48 -32 -32 -32
+LINE Normal -48 16 -32 16
+RECTANGLE Normal 32 32 -32 -48
+TEXT -33 -60 Left 0 DLatch
+TEXT 6 25 Left 0 DMY
+WINDOW 0 15 -60 Left 0
+PIN -48 -32 LEFT 17
+PINATTR PinName D
+PINATTR SpiceOrder 1
+PIN -48 16 LEFT 17
+PINATTR PinName G
+PINATTR SpiceOrder 2
+PIN 48 -32 RIGHT 17
+PINATTR PinName Q
+PINATTR SpiceOrder 3

@@ -1,0 +1,50 @@
+Circuit: * C:\Users\Daniel\Desktop\SAR_ADC_FINALE\OR_test.asc
+
+Instance "m:x1:x1:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x1:§pmodb": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x1:§nmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x1:§nmodb": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x2:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x2:§nmodb": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x3:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:x3:§nmodb": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 4.68767e-05 to 4.68767e-05
+Heightened Def Con from 4.68767e-05 to 4.68767e-05
+Heightened Def Con from 4.68767e-05 to 4.68767e-05
+Heightened Def Con from 4.68767e-05 to 4.68767e-05
+Heightened Def Con from 4.68767e-05 to 4.68767e-05
+Heightened Def Con from 6.25017e-05 to 6.25017e-05
+Heightened Def Con from 6.25017e-05 to 6.25017e-05
+Heightened Def Con from 6.25017e-05 to 6.25017e-05
+Heightened Def Con from 6.25017e-05 to 6.25017e-05
+Heightened Def Con from 6.25017e-05 to 6.25017e-05
+Heightened Def Con from 7.81267e-05 to 7.81267e-05
+Heightened Def Con from 7.81267e-05 to 7.81267e-05
+Heightened Def Con from 7.81267e-05 to 7.81267e-05
+Heightened Def Con from 7.81267e-05 to 7.81267e-05
+Heightened Def Con from 7.81267e-05 to 7.81267e-05
+Heightened Def Con from 9.37517e-05 to 9.37517e-05
+Heightened Def Con from 9.37517e-05 to 9.37517e-05
+Heightened Def Con from 9.37517e-05 to 9.37517e-05
+Heightened Def Con from 9.37517e-05 to 9.37517e-05
+Heightened Def Con from 9.37517e-05 to 9.37517e-05
+
+Date: Sat Jun 10 09:25:05 2023
+Total elapsed time: 0.251 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 14553
+traniter = 14540
+tranpoints = 4544
+accept = 3556
+rejected = 1008
+matrix size = 10
+fillins = 0
+solver = Normal
+Avg thread counts: 1.0/1.1/1.2/1.0
+Matrix Compiler1: 560 bytes object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 856 bytes object code size  0.2/0.2/[0.2]
+

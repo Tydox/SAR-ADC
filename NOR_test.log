@@ -1,0 +1,26 @@
+Circuit: * C:\Users\Daniel\Desktop\SAR_ADC_FINALE\NOR_test.asc
+
+Instance "m:x1:§pmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:§pmodb": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:§nmoda": Length shorter than recommended for a level 1 MOSFET.
+Instance "m:x1:§nmodb": Length shorter than recommended for a level 1 MOSFET.
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Jun 10 09:21:55 2023
+Total elapsed time: 0.105 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 9836
+traniter = 9828
+tranpoints = 3709
+accept = 3059
+rejected = 650
+matrix size = 8
+fillins = 0
+solver = Normal
+Avg thread counts: 1.1/1.2/1.2/1.1
+Matrix Compiler1: 372 bytes object code size  0.2/0.1/[0.1]
+Matrix Compiler2: 658 bytes object code size  0.2/0.1/[0.1]
+

@@ -1,0 +1,29 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 16 -64 16 -48
+LINE Normal 112 0 97 0
+LINE Normal 16 64 16 48
+LINE Normal -80 0 -64 0
+LINE Normal -64 48 -64 -48
+LINE Normal 96 0 -64 48
+LINE Normal -64 -48 96 0
+LINE Normal -64 0 97 -48
+LINE Normal 97 48 -64 0
+LINE Normal 97 -49 97 48
+LINE Normal 16 23 16 48
+CIRCLE Normal 6 -27 27 -46
+TEXT 4 12 Left 0 DMY
+TEXT -30 -3 Left 0 Transmiision gate
+WINDOW 0 61 -24 Left 0
+PIN 16 -64 TOP 8
+PINATTR PinName Vdd
+PINATTR SpiceOrder 1
+PIN 16 64 BOTTOM 8
+PINATTR PinName Vss
+PINATTR SpiceOrder 2
+PIN 112 0 RIGHT 8
+PINATTR PinName Out
+PINATTR SpiceOrder 3
+PIN -80 0 LEFT 8
+PINATTR PinName In
+PINATTR SpiceOrder 4

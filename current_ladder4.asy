@@ -1,0 +1,30 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -80 -120 80 120
+TEXT -81 -136 Left 2 DAC4BIT
+TEXT -23 111 Left 0 Danie,Matan,Yarden
+WINDOW 0 43 -137 Left 2
+PIN -80 0 LEFT 8
+PINATTR PinName d0
+PINATTR SpiceOrder 1
+PIN -80 -32 LEFT 8
+PINATTR PinName d1
+PINATTR SpiceOrder 2
+PIN -80 -64 LEFT 8
+PINATTR PinName d2
+PINATTR SpiceOrder 3
+PIN -80 -96 LEFT 8
+PINATTR PinName d3
+PINATTR SpiceOrder 4
+PIN -80 32 LEFT 8
+PINATTR PinName Vdd
+PINATTR SpiceOrder 5
+PIN -80 64 LEFT 8
+PINATTR PinName Vref
+PINATTR SpiceOrder 6
+PIN -80 96 LEFT 8
+PINATTR PinName Vss
+PINATTR SpiceOrder 7
+PIN 80 0 RIGHT 8
+PINATTR PinName Vout
+PINATTR SpiceOrder 8
